@@ -1,0 +1,13 @@
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.AssemblyReference.cache
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfoInputs.cache
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfo.cs
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CoreCompileInputs.cache
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.deps.json
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CopyComplete
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+C:\Users\fast\Documents\pessoal\estudos\angular,dotnetCoreWebApi\ControleFinanceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
