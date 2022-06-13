@@ -166,16 +166,16 @@ namespace ControleFinanceiro.DAL.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "229c9686-72af-4efb-8361-5233846c1655",
-                            ConcurrencyStamp = "518ed6b9-4a2d-4e13-804c-8cfb1faeec42",
+                            Id = "84fa9437-bddc-460d-a743-9439a953bc54",
+                            ConcurrencyStamp = "185060e6-91b4-4198-a529-3314477559d0",
                             Descricao = "Administrador do sistema",
                             Name = "Administrador",
                             NormalizedName = "ADMINSISTRADOR"
                         },
                         new
                         {
-                            Id = "c914f4f0-726f-43ff-8757-b70e1d20ba7e",
-                            ConcurrencyStamp = "a8d4b5b9-a1af-4a69-9232-84c9347ad785",
+                            Id = "7cefaaaa-1597-476e-a82b-f92125d986a5",
+                            ConcurrencyStamp = "c6b4a0be-a60d-4bb6-8ff6-7e0950587e96",
                             Descricao = "Usuario do sistema",
                             Name = "Usuario",
                             NormalizedName = "USUARIO"
@@ -232,11 +232,78 @@ namespace ControleFinanceiro.DAL.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Nome")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(20)")
+                        .HasMaxLength(20);
 
                     b.HasKey("MesId");
 
+                    b.HasIndex("Nome")
+                        .IsUnique();
+
                     b.ToTable("Meses");
+
+                    b.HasData(
+                        new
+                        {
+                            MesId = 1,
+                            Nome = "Janeiro"
+                        },
+                        new
+                        {
+                            MesId = 2,
+                            Nome = "Fevereiro"
+                        },
+                        new
+                        {
+                            MesId = 3,
+                            Nome = "Março"
+                        },
+                        new
+                        {
+                            MesId = 4,
+                            Nome = "Abril"
+                        },
+                        new
+                        {
+                            MesId = 5,
+                            Nome = "Maio"
+                        },
+                        new
+                        {
+                            MesId = 6,
+                            Nome = "Junho"
+                        },
+                        new
+                        {
+                            MesId = 7,
+                            Nome = "Julho"
+                        },
+                        new
+                        {
+                            MesId = 8,
+                            Nome = "Agosto"
+                        },
+                        new
+                        {
+                            MesId = 9,
+                            Nome = "Setembro"
+                        },
+                        new
+                        {
+                            MesId = 10,
+                            Nome = "Outubro"
+                        },
+                        new
+                        {
+                            MesId = 11,
+                            Nome = "Novembro"
+                        },
+                        new
+                        {
+                            MesId = 12,
+                            Nome = "Dezembro"
+                        });
                 });
 
             modelBuilder.Entity("ControleFinanceiro.BLL.Models.Tipo", b =>

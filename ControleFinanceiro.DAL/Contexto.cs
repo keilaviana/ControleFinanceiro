@@ -29,6 +29,7 @@ namespace ControleFinanceiro.DAL
             builder.ApplyConfiguration(new GanhoMap());
             builder.ApplyConfiguration(new TipoMap());
             builder.ApplyConfiguration(new UsuarioMap());
+            builder.ApplyConfiguration(new MesMap());
         }
     }
 }
